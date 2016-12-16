@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{0E35E887-8B88-4B5C-B320-803155E2C6C5}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Xamarin.LRUCache.NUnitTests/Test.cs">
+    <Files>
+      <File FileName="Xamarin.LRUCache.iOS_Sample/ViewController.cs" Line="21" Column="4" />
+      <File FileName="Xamarin.LRUCache.NUnitTests/Test.cs" Line="50" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../01.Projects/02.C#/tripinview.ios/TripinView.iOS/ViewControllers/Storyboards/MainStoryboard/Global/TopDestinationsHeaderView.cs" line="20" offsetX="739" offsetY="285" expression="arr" liveUpdate="False" />
+    <Watch file="../../01.Projects/02.C#/tripinview.ios/TripinView.Testing/ComvicoModel.cs" line="121" offsetX="580" offsetY="1695" expression="indexesChanged" liveUpdate="False" />
+    <Watch file="../../01.Projects/02.C#/tripinview.ios/TripinView.Core/ServiceHelper.cs" line="258" offsetX="855" offsetY="1740" expression="entitySearchResult" liveUpdate="False" />
+    <Watch file="../../01.Projects/02.C#/tripinview.ios/TripinView.iOS/ViewControllers/LandingPage/EntityLandingPageViewController.cs" line="203" offsetX="631" offsetY="570" expression="availableTags" liveUpdate="False" />
+    <Watch file="../../01.Projects/02.C#/tripinview.ios/AuthenticationTesting/ViewController.cs" line="41" offsetX="651" offsetY="560" expression="destination" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.Xamarin.LRUCache.NUnitTests PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
