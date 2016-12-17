@@ -15,9 +15,16 @@ namespace Xamarin.LRUCache.iOS_Sample
 		{
 			base.ViewDidLoad();
 
-			LRUCache<string, UIImage> cache = new LRUCache<string, UIImage>(10);
+			LRUCache<string, string> cache = new LRUCache<string, string>(10);
 
-
+			cache.Put("a", "1");
+			cache.Put("b", "1");
+			cache.Put("c", "1");
+			cache.Put("d", "1");
+			cache.Put("a", "1");
+			cache.Put("a", "1");
+			cache.Put("a", "1");
+			cache.Put("a", "1");
 
 		}
 

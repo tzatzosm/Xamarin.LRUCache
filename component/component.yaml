@@ -1,0 +1,21 @@
+%YAML 1.2
+---
+libraries: 
+  ios-unified: ../lib/ios/Awesome.dll
+icons: 
+  - /Users/max/01.Projects/02.C#/Xamarin.LRUCache/_128x128.png
+  - /Users/max/01.Projects/02.C#/Xamarin.LRUCache/_512x512.png
+version: "1.0"
+details: Details.md
+getting-started: GettingStarted.md
+samples: 
+  iOS Sample: ../samples/AwesomeSample/AwesomeSample.sln
+id: /Users/max/01.Projects/02.C#/Xamarin.LRUCache/
+summary: A PCL LRU Cache (Profile 111)
+publisher-url: https://github.com/g20ready/Xamarin.LRUCache
+license: License.md
+screenshots: 
+  - screenshots/screenshot1.png
+name: LRUCache
+publisher: Marsel Tzatzo
+...

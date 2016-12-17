@@ -24,9 +24,23 @@ namespace Xamarin.LRUCache.NUnitTests
 			}
 		}
 
+		[Test()]
+		public void TestClear()
+		{
+			LRUCache<string, string> cache = new LRUCache<string, string>(100);
+
+			for (int i = 0; i < 100; i++)
+			{
+				cache.Put(i.ToString(), i.ToString());
+			}
+
+			cache.Clear();
+
+			Assert.AreEqual(cache.Size, 0);
+		}
 
 		[Test()]
-		public void TestUpdated()
+		public void TestUpdatePolicy()
 		{
 			LRUCache<string, string> cache = new LRUCache<string, string>(1024);
 
@@ -42,7 +56,7 @@ namespace Xamarin.LRUCache.NUnitTests
 		}
 
 		[Test()]
-		public void TestEviction()
+		public void TestEvictionPolicy()
 		{
 			LRUCache<string, string> cache = new LRUCache<string, string>(100);
 

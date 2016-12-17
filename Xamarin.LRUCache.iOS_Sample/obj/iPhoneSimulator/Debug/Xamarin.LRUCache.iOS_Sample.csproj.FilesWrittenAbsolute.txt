@@ -9,3 +9,11 @@
 /Users/max/Projects/Xamarin.LRUCache/Xamarin.LRUCache.iOS_Sample/obj/iPhoneSimulator/Debug/Xamarin.LRUCache.iOS_Sample.exe.mdb
 /Users/max/Projects/Xamarin.LRUCache/Xamarin.LRUCache.iOS_Sample/bin/iPhoneSimulator/Debug/Xamarin.LRUCache.dll
 /Users/max/Projects/Xamarin.LRUCache/Xamarin.LRUCache.iOS_Sample/bin/iPhoneSimulator/Debug/Xamarin.LRUCache.dll.mdb
+/Users/max/01.Projects/02.C#/Xamarin.LRUCache/Xamarin.LRUCache.iOS_Sample/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/max/01.Projects/02.C#/Xamarin.LRUCache/Xamarin.LRUCache.iOS_Sample/obj/iPhoneSimulator/Debug/optimized/
+/Users/max/01.Projects/02.C#/Xamarin.LRUCache/Xamarin.LRUCache.iOS_Sample/bin/iPhoneSimulator/Debug/Xamarin.LRUCache.iOS_Sample.exe.mdb
+/Users/max/01.Projects/02.C#/Xamarin.LRUCache/Xamarin.LRUCache.iOS_Sample/bin/iPhoneSimulator/Debug/Xamarin.LRUCache.iOS_Sample.exe
+/Users/max/01.Projects/02.C#/Xamarin.LRUCache/Xamarin.LRUCache.iOS_Sample/obj/iPhoneSimulator/Debug/Xamarin.LRUCache.iOS_Sample.exe
+/Users/max/01.Projects/02.C#/Xamarin.LRUCache/Xamarin.LRUCache.iOS_Sample/obj/iPhoneSimulator/Debug/Xamarin.LRUCache.iOS_Sample.exe.mdb
+/Users/max/01.Projects/02.C#/Xamarin.LRUCache/Xamarin.LRUCache.iOS_Sample/bin/iPhoneSimulator/Debug/Xamarin.LRUCache.dll
+/Users/max/01.Projects/02.C#/Xamarin.LRUCache/Xamarin.LRUCache.iOS_Sample/bin/iPhoneSimulator/Debug/Xamarin.LRUCache.dll.mdb

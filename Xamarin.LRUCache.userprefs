@@ -1,11 +1,20 @@
 ﻿<Properties StartupConfiguration="{0E35E887-8B88-4B5C-B320-803155E2C6C5}|Unit Tests">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Xamarin.LRUCache.NUnitTests/Test.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Xamarin.LRUCache/ICacheable.cs">
     <Files>
       <File FileName="Xamarin.LRUCache.iOS_Sample/ViewController.cs" Line="21" Column="4" />
-      <File FileName="Xamarin.LRUCache.NUnitTests/Test.cs" Line="50" Column="5" />
+      <File FileName="Xamarin.LRUCache.NUnitTests/Test.cs" Line="79" Column="5" />
+      <File FileName="Xamarin.LRUCache/LRUCache.cs" Line="54" Column="7" />
+      <File FileName="Xamarin.LRUCache/ICacheable.cs" Line="8" Column="18" />
     </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Xamarin.LRUCache" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

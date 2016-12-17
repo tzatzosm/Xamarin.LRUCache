@@ -40,12 +40,19 @@ namespace Xamarin.LRUCache
 			get { return _evictionCount; }
 		}
 
+		/// <summary>
+		/// The count of successful entries retrieved.
+		/// </summary>
 		private int _hitCount = 0;
 		public int HitCount
 		{
 			get { return _hitCount; }
 		}
 
+		/// <summary>
+		/// The count of entries tried to get retrieved 
+		/// but had been evicted or did not exist.
+		/// </summary>
 		private int _missCount = 0;
 		public int MissCount
 		{
@@ -86,11 +93,12 @@ namespace Xamarin.LRUCache
 		#region ICache
 
 		/// <summary>
-		/// Clears all the entries cached.
+		/// Returns true if the dictionary contains the given key.
 		/// </summary>
-		public void Clear()
+		/// <param name="key">Key.</param>
+		public bool Contains(TKey key)
 		{
-			Trim(-1);
+			return _dictionary.ContainsKey(key);
 		}
 
 		/// <summary>
@@ -115,7 +123,7 @@ namespace Xamarin.LRUCache
 			// Our eviction policy will 
 			// take care of the duplicate keys by checking 
 			// if the queue contains a key.
-			// FIXME : find a data structure better suited for this case.
+			// TODO : find a data structure better suited for this case.
 			_queue.Enqueue(key);
 			return val;
 		}
@@ -170,6 +178,14 @@ namespace Xamarin.LRUCache
 			_size += SizeOf(val);
 			_queue.Enqueue(key);
 			Trim(MaxSize);
+		}
+
+		/// <summary>
+		/// Clears all the entries cached.
+		/// </summary>
+		public void Clear()
+		{
+			Trim(-1);
 		}
 
 		#endregion

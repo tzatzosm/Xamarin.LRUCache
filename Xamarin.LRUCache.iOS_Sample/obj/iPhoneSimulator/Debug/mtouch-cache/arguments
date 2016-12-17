@@ -2,9 +2,9 @@
 # [first argument, ignore] # /Library/Frameworks/Xamarin.iOS.framework/Versions/10.3.0.0/lib/mtouch/mtouch.exe
 /Library/Frameworks/Xamarin.iOS.framework/Versions/10.3.0.0/lib/mtouch/mtouch.exe \
 	--cache \
-	/Users/max/Projects/Xamarin.LRUCache/Xamarin.LRUCache.iOS_Sample/obj/iPhoneSimulator/Debug/mtouch-cache \
+	/Users/max/01.Projects/02.C#/Xamarin.LRUCache/Xamarin.LRUCache.iOS_Sample/obj/iPhoneSimulator/Debug/mtouch-cache \
 	--sim \
-	/Users/max/Projects/Xamarin.LRUCache/Xamarin.LRUCache.iOS_Sample/bin/iPhoneSimulator/Debug/Xamarin.LRUCache.iOS_Sample.app \
+	/Users/max/01.Projects/02.C#/Xamarin.LRUCache/Xamarin.LRUCache.iOS_Sample/bin/iPhoneSimulator/Debug/Xamarin.LRUCache.iOS_Sample.app \
 	--executable \
 	Xamarin.LRUCache.iOS_Sample \
 	--fastdev \
@@ -20,7 +20,7 @@
 	--tls-provider=default \
 	--abi=x86_64 \
 	--symbollist \
-	/Users/max/Projects/Xamarin.LRUCache/Xamarin.LRUCache.iOS_Sample/obj/iPhoneSimulator/Debug/mtouch-symbols.list \
+	/Users/max/01.Projects/02.C#/Xamarin.LRUCache/Xamarin.LRUCache.iOS_Sample/obj/iPhoneSimulator/Debug/mtouch-symbols.list \
 	--dsym=no \
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
@@ -31,7 +31,7 @@
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
 	-r \
-	/Users/max/Projects/Xamarin.LRUCache/Xamarin.LRUCache/bin/Debug/Xamarin.LRUCache.dll \
+	/Users/max/01.Projects/02.C#/Xamarin.LRUCache/Xamarin.LRUCache/bin/Debug/Xamarin.LRUCache.dll \
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
 	-r \
@@ -291,7 +291,7 @@
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Xml.Xsl.Primitives.dll \
 	-r \
-	/Users/max/Projects/Xamarin.LRUCache/Xamarin.LRUCache/bin/Debug/Xamarin.LRUCache.dll \
+	/Users/max/01.Projects/02.C#/Xamarin.LRUCache/Xamarin.LRUCache/bin/Debug/Xamarin.LRUCache.dll \
 	--target-framework \
 	"Xamarin.iOS,v1.0" \
-	/Users/max/Projects/Xamarin.LRUCache/Xamarin.LRUCache.iOS_Sample/bin/iPhoneSimulator/Debug//Xamarin.LRUCache.iOS_Sample.exe \
+	/Users/max/01.Projects/02.C#/Xamarin.LRUCache/Xamarin.LRUCache.iOS_Sample/bin/iPhoneSimulator/Debug//Xamarin.LRUCache.iOS_Sample.exe \

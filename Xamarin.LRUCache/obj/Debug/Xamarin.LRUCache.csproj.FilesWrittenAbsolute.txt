@@ -3,3 +3,8 @@
 /Users/max/Projects/Xamarin.LRUCache/Xamarin.LRUCache/bin/Debug/Xamarin.LRUCache.dll
 /Users/max/Projects/Xamarin.LRUCache/Xamarin.LRUCache/obj/Debug/Xamarin.LRUCache.dll
 /Users/max/Projects/Xamarin.LRUCache/Xamarin.LRUCache/obj/Debug/Xamarin.LRUCache.dll.mdb
+/Users/max/01.Projects/02.C#/Xamarin.LRUCache/Xamarin.LRUCache/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile111.AssemblyAttribute.cs
+/Users/max/01.Projects/02.C#/Xamarin.LRUCache/Xamarin.LRUCache/bin/Debug/Xamarin.LRUCache.dll.mdb
+/Users/max/01.Projects/02.C#/Xamarin.LRUCache/Xamarin.LRUCache/bin/Debug/Xamarin.LRUCache.dll
+/Users/max/01.Projects/02.C#/Xamarin.LRUCache/Xamarin.LRUCache/obj/Debug/Xamarin.LRUCache.dll
+/Users/max/01.Projects/02.C#/Xamarin.LRUCache/Xamarin.LRUCache/obj/Debug/Xamarin.LRUCache.dll.mdb

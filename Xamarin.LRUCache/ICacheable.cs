@@ -6,6 +6,12 @@ namespace Xamarin.LRUCache
 		where TValue : class
 	{
 		/// <summary>
+		/// returns true if the cache contains the given key.
+		/// </summary>
+		/// <param name="key">Key.</param>
+		bool Contains(TKey key);
+
+		/// <summary>
 		/// Returns the cached value for the given key.
 		/// </summary>
 		/// <param name="key">Key.</param>
@@ -23,7 +29,6 @@ namespace Xamarin.LRUCache
 		/// <param name="key">Key to specify the value.</param>
 		/// <param name="val">Value.</param>
 		void Put(TKey key, TValue val);
-
 
 		/// <summary>
 		/// Clears all the entries cached.
